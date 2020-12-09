@@ -1,0 +1,17 @@
+{
+  "name": "Angular",
+  "build": {
+    "context": "..",
+    "dockerfile": "Dockerfile"
+  },
+  "extensions": [
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint",
+    // typescript
+    "dbaeumer.vscode-eslint",
+    "joelday.docthis",
+    // angular
+    "Angular.ng-template",
+    "johnpapa.Angular2"
+  ]
+}
