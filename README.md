@@ -2,6 +2,14 @@
 
 ## メモ
 
+- bashで`node:15.3.0-buster-slim`をビルドする
+
+```bash
+docker image build \
+-f .devcontainer/Dockerfile \
+-t test .
+```
+
 - `node:15.3.0-buster-slim`に、bashでアクセスする
 
 ```bash
