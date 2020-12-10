@@ -11,7 +11,7 @@
     "dbaeumer.vscode-eslint",
     "joelday.docthis",
     // angular
-    "Angular.ng-template",
-    "johnpapa.Angular2"
+    "johnpapa.Angular2",
+    "Angular.ng-template"
   ]
 }
